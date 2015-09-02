@@ -36,7 +36,7 @@
 * Trevor Malota, trevormalota
 * Jonathan Moore, spirituallyinsane
 * Shannon Morrissey, shannon.morrissey, [shmorrissey](https://github.com/shmorrissey)
-* Bijan Nekovei, bnn292
+* Bijan Nekovei, bnn292, [bnn292](https://github.com/bnn292)
 * Katy Nix, katy.nix
 * Eric Niyigaba, ericniyigaba
 * Nirmal Patel, nirm13ff05, [nirm13ff05](https://github.com/nirm13ff05)
